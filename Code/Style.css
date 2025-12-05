@@ -1,0 +1,45 @@
+body {
+    background: #0a0f24;
+    color: white;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    width: 80%;
+    margin: auto;
+    padding-top: 30px;
+}
+
+input {
+    width: 70%;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 10px;
+}
+
+button {
+    padding: 12px 20px;
+    background: #ff9900;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#playersList div {
+    padding: 12px;
+    background: #11182f;
+    margin-top: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#playerDetails {
+    background: #11182f;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
